@@ -17,10 +17,15 @@ body {
   margin-top: 20px;
 }
 .action-icons {
+  margin-top: 5px;
   height: 25px;
   width: 25px;
   margin-right: 10px;
 }
 .action-icons:hover {
   cursor: pointer;
+}
+.cart{
+  display:flex;
+  flex-direction: column;
 }
